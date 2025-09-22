@@ -2,6 +2,11 @@
 <html>
 <head>
     <title>Metro Tain Booking</title>
+    <style>
+    p{
+    color:red
+    }
+    </style>
 </head>
 <body>
     <h1>Welcome to the Metro Tain Booking</h1>
